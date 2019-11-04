@@ -36,4 +36,4 @@
 `nc2f90.f90`脚本可帮助生成读取排放源nc文件的.f90文件。编译后，执行`./nc2f90 input_file`即可生成名为`rd_netcdf_model.f90`的文件。可在此文件和`wrfchemi.f90`的基础上进行相应修改。
 
 下图为生成的扰动源的空间分布的效果对比。
-![Image text](https://imgchr.com/i/Kv7OnP)
+![Image text](https://github.com/IncubatorShokuhou/EmissionPetrubation/blob/master/4_emissions.png)
